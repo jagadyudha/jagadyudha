@@ -5,168 +5,6 @@
         "album_type" : "album",
         "artists" : [ {
           "external_urls" : {
-            "spotify" : "https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP"
-          },
-          "href" : "https://api.spotify.com/v1/artists/1EsGSU1T8erJCcsxrndQWP",
-          "id" : "1EsGSU1T8erJCcsxrndQWP",
-          "name" : "Saleem",
-          "type" : "artist",
-          "uri" : "spotify:artist:1EsGSU1T8erJCcsxrndQWP"
-        } ],
-        "available_markets" : [ "AE", "BH", "BN", "CA", "DZ", "EG", "FJ", "HK", "ID", "IL", "JO", "JP", "KR", "KW", "LA", "LB", "LK", "MA", "MO", "MX", "MY", "OM", "PH", "PK", "QA", "SA", "SG", "TH", "TN", "TR", "TW", "US", "VN", "ZA" ],
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/album/3BLTFVSzBNUNvZXd5sujQ3"
-        },
-        "href" : "https://api.spotify.com/v1/albums/3BLTFVSzBNUNvZXd5sujQ3",
-        "id" : "3BLTFVSzBNUNvZXd5sujQ3",
-        "images" : [ {
-          "height" : 640,
-          "url" : "https://i.scdn.co/image/ab67616d0000b27381e76cdee14883a049d612a1",
-          "width" : 640
-        }, {
-          "height" : 300,
-          "url" : "https://i.scdn.co/image/ab67616d00001e0281e76cdee14883a049d612a1",
-          "width" : 300
-        }, {
-          "height" : 64,
-          "url" : "https://i.scdn.co/image/ab67616d0000485181e76cdee14883a049d612a1",
-          "width" : 64
-        } ],
-        "name" : "Demi Cinta",
-        "release_date" : "2009-01-01",
-        "release_date_precision" : "day",
-        "total_tracks" : 12,
-        "type" : "album",
-        "uri" : "spotify:album:3BLTFVSzBNUNvZXd5sujQ3"
-      },
-      "artists" : [ {
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP"
-        },
-        "href" : "https://api.spotify.com/v1/artists/1EsGSU1T8erJCcsxrndQWP",
-        "id" : "1EsGSU1T8erJCcsxrndQWP",
-        "name" : "Saleem",
-        "type" : "artist",
-        "uri" : "spotify:artist:1EsGSU1T8erJCcsxrndQWP"
-      } ],
-      "available_markets" : [ "AE", "BH", "BN", "CA", "DZ", "EG", "FJ", "HK", "ID", "IL", "JO", "JP", "KR", "KW", "LA", "LB", "LK", "MA", "MO", "MX", "MY", "OM", "PH", "PK", "QA", "SA", "SG", "TH", "TN", "TR", "TW", "US", "VN", "ZA" ],
-      "disc_number" : 1,
-      "duration_ms" : 252560,
-      "explicit" : false,
-      "external_ids" : {
-        "isrc" : "MYUM70901814"
-      },
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/track/0RnrZKQnJqWgbVHCGhhaeW"
-      },
-      "href" : "https://api.spotify.com/v1/tracks/0RnrZKQnJqWgbVHCGhhaeW",
-      "id" : "0RnrZKQnJqWgbVHCGhhaeW",
-      "is_local" : false,
-      "name" : "Tinggal Kenangan",
-      "popularity" : 42,
-      "preview_url" : null,
-      "track_number" : 2,
-      "type" : "track",
-      "uri" : "spotify:track:0RnrZKQnJqWgbVHCGhhaeW"
-    },
-    "played_at" : "2021-08-31T08:17:46.739Z",
-    "context" : null
-  }, {
-    "track" : {
-      "album" : {
-        "album_type" : "single",
-        "artists" : [ {
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/artist/5EMFBilzhzttoVgBBw9FUZ"
-          },
-          "href" : "https://api.spotify.com/v1/artists/5EMFBilzhzttoVgBBw9FUZ",
-          "id" : "5EMFBilzhzttoVgBBw9FUZ",
-          "name" : "Nicky Tirta",
-          "type" : "artist",
-          "uri" : "spotify:artist:5EMFBilzhzttoVgBBw9FUZ"
-        }, {
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/artist/6l8uDdmTwCtKmdnIDaDeiP"
-          },
-          "href" : "https://api.spotify.com/v1/artists/6l8uDdmTwCtKmdnIDaDeiP",
-          "id" : "6l8uDdmTwCtKmdnIDaDeiP",
-          "name" : "Rini Mentari",
-          "type" : "artist",
-          "uri" : "spotify:artist:6l8uDdmTwCtKmdnIDaDeiP"
-        } ],
-        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/album/0iOBUgRF1GTgeGYH927bfR"
-        },
-        "href" : "https://api.spotify.com/v1/albums/0iOBUgRF1GTgeGYH927bfR",
-        "id" : "0iOBUgRF1GTgeGYH927bfR",
-        "images" : [ {
-          "height" : 640,
-          "url" : "https://i.scdn.co/image/ab67616d0000b27330259b5fdd29930c77d2e1e0",
-          "width" : 640
-        }, {
-          "height" : 300,
-          "url" : "https://i.scdn.co/image/ab67616d00001e0230259b5fdd29930c77d2e1e0",
-          "width" : 300
-        }, {
-          "height" : 64,
-          "url" : "https://i.scdn.co/image/ab67616d0000485130259b5fdd29930c77d2e1e0",
-          "width" : 64
-        } ],
-        "name" : "Indah Cintaku",
-        "release_date" : "2016-01-01",
-        "release_date_precision" : "day",
-        "total_tracks" : 1,
-        "type" : "album",
-        "uri" : "spotify:album:0iOBUgRF1GTgeGYH927bfR"
-      },
-      "artists" : [ {
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/5EMFBilzhzttoVgBBw9FUZ"
-        },
-        "href" : "https://api.spotify.com/v1/artists/5EMFBilzhzttoVgBBw9FUZ",
-        "id" : "5EMFBilzhzttoVgBBw9FUZ",
-        "name" : "Nicky Tirta",
-        "type" : "artist",
-        "uri" : "spotify:artist:5EMFBilzhzttoVgBBw9FUZ"
-      }, {
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/6l8uDdmTwCtKmdnIDaDeiP"
-        },
-        "href" : "https://api.spotify.com/v1/artists/6l8uDdmTwCtKmdnIDaDeiP",
-        "id" : "6l8uDdmTwCtKmdnIDaDeiP",
-        "name" : "Rini Mentari",
-        "type" : "artist",
-        "uri" : "spotify:artist:6l8uDdmTwCtKmdnIDaDeiP"
-      } ],
-      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
-      "disc_number" : 1,
-      "duration_ms" : 245703,
-      "explicit" : false,
-      "external_ids" : {
-        "isrc" : "IDA401602735"
-      },
-      "external_urls" : {
-        "spotify" : "https://open.spotify.com/track/2PT81yApwUl8G63fvTWKUo"
-      },
-      "href" : "https://api.spotify.com/v1/tracks/2PT81yApwUl8G63fvTWKUo",
-      "id" : "2PT81yApwUl8G63fvTWKUo",
-      "is_local" : false,
-      "name" : "Indah Cintaku",
-      "popularity" : 43,
-      "preview_url" : "https://p.scdn.co/mp3-preview/2c4ac248ad987bf46208f6dd77a80fe67ecac7ef?cid=774b29d4f13844c495f206cafdad9c86",
-      "track_number" : 1,
-      "type" : "track",
-      "uri" : "spotify:track:2PT81yApwUl8G63fvTWKUo"
-    },
-    "played_at" : "2021-08-31T08:10:34.225Z",
-    "context" : null
-  }, {
-    "track" : {
-      "album" : {
-        "album_type" : "album",
-        "artists" : [ {
-          "external_urls" : {
             "spotify" : "https://open.spotify.com/artist/0oNbhbVYXqDwhkDIvPLerC"
           },
           "href" : "https://api.spotify.com/v1/artists/0oNbhbVYXqDwhkDIvPLerC",
@@ -231,146 +69,258 @@
       "type" : "track",
       "uri" : "spotify:track:1t4o4HS4fuJSLshOpC1m0l"
     },
-    "played_at" : "2021-08-31T08:05:27.591Z",
-    "context" : null
-  }, {
-    "track" : {
-      "album" : {
-        "album_type" : "album",
-        "artists" : [ {
-          "external_urls" : {
-            "spotify" : "https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF"
-          },
-          "href" : "https://api.spotify.com/v1/artists/3huVQoEWdqUTvlYpFVUHcF",
-          "id" : "3huVQoEWdqUTvlYpFVUHcF",
-          "name" : "Original Soundtrack",
-          "type" : "artist",
-          "uri" : "spotify:artist:3huVQoEWdqUTvlYpFVUHcF"
-        } ],
-        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/album/73DsZTBBZGEVk8aFfg5r8P"
-        },
-        "href" : "https://api.spotify.com/v1/albums/73DsZTBBZGEVk8aFfg5r8P",
-        "id" : "73DsZTBBZGEVk8aFfg5r8P",
-        "images" : [ {
-          "height" : 640,
-          "url" : "https://i.scdn.co/image/ab67616d0000b273898db101d6cbcee69a2da992",
-          "width" : 640
-        }, {
-          "height" : 300,
-          "url" : "https://i.scdn.co/image/ab67616d00001e02898db101d6cbcee69a2da992",
-          "width" : 300
-        }, {
-          "height" : 64,
-          "url" : "https://i.scdn.co/image/ab67616d00004851898db101d6cbcee69a2da992",
-          "width" : 64
-        } ],
-        "name" : "Love",
-        "release_date" : "2008-02-08",
-        "release_date_precision" : "day",
-        "total_tracks" : 9,
-        "type" : "album",
-        "uri" : "spotify:album:73DsZTBBZGEVk8aFfg5r8P"
-      },
-      "artists" : [ {
-        "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/4V1Io5SwSO4CwaUbgLMYvz"
-        },
-        "href" : "https://api.spotify.com/v1/artists/4V1Io5SwSO4CwaUbgLMYvz",
-        "id" : "4V1Io5SwSO4CwaUbgLMYvz",
-        "name" : "Gita Gutawa",
-        "type" : "artist",
-        "uri" : "spotify:artist:4V1Io5SwSO4CwaUbgLMYvz"
-      } ],
-      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
-      "disc_number" : 1,
-      "duration_ms" : 240373,
-      "explicit" : false,
-      "external_ids" : {
-        "isrc" : "IDAC50800007"
-      },
+    "played_at" : "2021-08-31T09:25:30.773Z",
+    "context" : {
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/track/5FIltuhveV3tEQnjGcRjxl"
+        "spotify" : "https://open.spotify.com/album/5p8P7rI1p1pSs21E5FT0Az"
       },
-      "href" : "https://api.spotify.com/v1/tracks/5FIltuhveV3tEQnjGcRjxl",
-      "id" : "5FIltuhveV3tEQnjGcRjxl",
-      "is_local" : false,
-      "name" : "Sempurna (Versi 1)",
-      "popularity" : 26,
-      "preview_url" : "https://p.scdn.co/mp3-preview/5b1ee0f0dee932d0d272271ca11a2454797b9625?cid=774b29d4f13844c495f206cafdad9c86",
-      "track_number" : 8,
-      "type" : "track",
-      "uri" : "spotify:track:5FIltuhveV3tEQnjGcRjxl"
-    },
-    "played_at" : "2021-08-31T08:00:07.853Z",
-    "context" : null
+      "href" : "https://api.spotify.com/v1/albums/5p8P7rI1p1pSs21E5FT0Az",
+      "type" : "album",
+      "uri" : "spotify:album:5p8P7rI1p1pSs21E5FT0Az"
+    }
   }, {
     "track" : {
       "album" : {
         "album_type" : "album",
         "artists" : [ {
           "external_urls" : {
-            "spotify" : "https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l"
+            "spotify" : "https://open.spotify.com/artist/0oNbhbVYXqDwhkDIvPLerC"
           },
-          "href" : "https://api.spotify.com/v1/artists/6GxmlugWFw4hmhUQ5uP93l",
-          "id" : "6GxmlugWFw4hmhUQ5uP93l",
-          "name" : "Astrid",
+          "href" : "https://api.spotify.com/v1/artists/0oNbhbVYXqDwhkDIvPLerC",
+          "id" : "0oNbhbVYXqDwhkDIvPLerC",
+          "name" : "Dian Kusuma",
           "type" : "artist",
-          "uri" : "spotify:artist:6GxmlugWFw4hmhUQ5uP93l"
+          "uri" : "spotify:artist:0oNbhbVYXqDwhkDIvPLerC"
         } ],
         "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
         "external_urls" : {
-          "spotify" : "https://open.spotify.com/album/01zDZbVSnCZ1TS0IASD38S"
+          "spotify" : "https://open.spotify.com/album/5p8P7rI1p1pSs21E5FT0Az"
         },
-        "href" : "https://api.spotify.com/v1/albums/01zDZbVSnCZ1TS0IASD38S",
-        "id" : "01zDZbVSnCZ1TS0IASD38S",
-        "images" : [ ],
-        "name" : "Lihat Aku Sekarang",
-        "release_date" : "2010-06-21",
-        "release_date_precision" : "day",
-        "total_tracks" : 12,
+        "href" : "https://api.spotify.com/v1/albums/5p8P7rI1p1pSs21E5FT0Az",
+        "id" : "5p8P7rI1p1pSs21E5FT0Az",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734af29064ab73f652fd81dff5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024af29064ab73f652fd81dff5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514af29064ab73f652fd81dff5",
+          "width" : 64
+        } ],
+        "name" : "Bossanova Jawa, Vol. 4",
+        "release_date" : "2010",
+        "release_date_precision" : "year",
+        "total_tracks" : 10,
         "type" : "album",
-        "uri" : "spotify:album:01zDZbVSnCZ1TS0IASD38S"
+        "uri" : "spotify:album:5p8P7rI1p1pSs21E5FT0Az"
       },
       "artists" : [ {
         "external_urls" : {
-          "spotify" : "https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l"
+          "spotify" : "https://open.spotify.com/artist/0oNbhbVYXqDwhkDIvPLerC"
         },
-        "href" : "https://api.spotify.com/v1/artists/6GxmlugWFw4hmhUQ5uP93l",
-        "id" : "6GxmlugWFw4hmhUQ5uP93l",
-        "name" : "Astrid",
+        "href" : "https://api.spotify.com/v1/artists/0oNbhbVYXqDwhkDIvPLerC",
+        "id" : "0oNbhbVYXqDwhkDIvPLerC",
+        "name" : "Dian Kusuma",
         "type" : "artist",
-        "uri" : "spotify:artist:6GxmlugWFw4hmhUQ5uP93l"
+        "uri" : "spotify:artist:0oNbhbVYXqDwhkDIvPLerC"
       } ],
       "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
       "disc_number" : 1,
-      "duration_ms" : 251226,
+      "duration_ms" : 300600,
       "explicit" : false,
       "external_ids" : {
-        "isrc" : "IDAC50900196"
+        "isrc" : "FR2X41636790"
       },
       "external_urls" : {
-        "spotify" : "https://open.spotify.com/track/73PIm6P5ruqBmcEVtzcop2"
+        "spotify" : "https://open.spotify.com/track/6ElqMTyPC4Fxz9GgJc48c4"
       },
-      "href" : "https://api.spotify.com/v1/tracks/73PIm6P5ruqBmcEVtzcop2",
-      "id" : "73PIm6P5ruqBmcEVtzcop2",
+      "href" : "https://api.spotify.com/v1/tracks/6ElqMTyPC4Fxz9GgJc48c4",
+      "id" : "6ElqMTyPC4Fxz9GgJc48c4",
       "is_local" : false,
-      "name" : "Tentang Rasa",
-      "popularity" : 50,
-      "preview_url" : "https://p.scdn.co/mp3-preview/1e541412546a00398c78f3ad6da21d628c4de73c?cid=774b29d4f13844c495f206cafdad9c86",
-      "track_number" : 2,
+      "name" : "Angin Wengi",
+      "popularity" : 21,
+      "preview_url" : "https://p.scdn.co/mp3-preview/301d554ca0b6fefbf130fe2a46fc16571158bcaf?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 9,
       "type" : "track",
-      "uri" : "spotify:track:73PIm6P5ruqBmcEVtzcop2"
+      "uri" : "spotify:track:6ElqMTyPC4Fxz9GgJc48c4"
     },
-    "played_at" : "2021-08-31T07:56:07.734Z",
-    "context" : null
+    "played_at" : "2021-08-31T09:20:11.087Z",
+    "context" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5p8P7rI1p1pSs21E5FT0Az"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5p8P7rI1p1pSs21E5FT0Az",
+      "type" : "album",
+      "uri" : "spotify:album:5p8P7rI1p1pSs21E5FT0Az"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0oNbhbVYXqDwhkDIvPLerC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0oNbhbVYXqDwhkDIvPLerC",
+          "id" : "0oNbhbVYXqDwhkDIvPLerC",
+          "name" : "Dian Kusuma",
+          "type" : "artist",
+          "uri" : "spotify:artist:0oNbhbVYXqDwhkDIvPLerC"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5p8P7rI1p1pSs21E5FT0Az"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5p8P7rI1p1pSs21E5FT0Az",
+        "id" : "5p8P7rI1p1pSs21E5FT0Az",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734af29064ab73f652fd81dff5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024af29064ab73f652fd81dff5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514af29064ab73f652fd81dff5",
+          "width" : 64
+        } ],
+        "name" : "Bossanova Jawa, Vol. 4",
+        "release_date" : "2010",
+        "release_date_precision" : "year",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5p8P7rI1p1pSs21E5FT0Az"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0oNbhbVYXqDwhkDIvPLerC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0oNbhbVYXqDwhkDIvPLerC",
+        "id" : "0oNbhbVYXqDwhkDIvPLerC",
+        "name" : "Dian Kusuma",
+        "type" : "artist",
+        "uri" : "spotify:artist:0oNbhbVYXqDwhkDIvPLerC"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 282000,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR2X41636789"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5v24MHVNg7Ysuz3DiVOfX9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5v24MHVNg7Ysuz3DiVOfX9",
+      "id" : "5v24MHVNg7Ysuz3DiVOfX9",
+      "is_local" : false,
+      "name" : "Taman Jurug",
+      "popularity" : 25,
+      "preview_url" : "https://p.scdn.co/mp3-preview/8393afacfaa03fe2393fddd0cd65b0bcccb4d059?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5v24MHVNg7Ysuz3DiVOfX9"
+    },
+    "played_at" : "2021-08-31T09:14:09.672Z",
+    "context" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5p8P7rI1p1pSs21E5FT0Az"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5p8P7rI1p1pSs21E5FT0Az",
+      "type" : "album",
+      "uri" : "spotify:album:5p8P7rI1p1pSs21E5FT0Az"
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/0oNbhbVYXqDwhkDIvPLerC"
+          },
+          "href" : "https://api.spotify.com/v1/artists/0oNbhbVYXqDwhkDIvPLerC",
+          "id" : "0oNbhbVYXqDwhkDIvPLerC",
+          "name" : "Dian Kusuma",
+          "type" : "artist",
+          "uri" : "spotify:artist:0oNbhbVYXqDwhkDIvPLerC"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5p8P7rI1p1pSs21E5FT0Az"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5p8P7rI1p1pSs21E5FT0Az",
+        "id" : "5p8P7rI1p1pSs21E5FT0Az",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2734af29064ab73f652fd81dff5",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e024af29064ab73f652fd81dff5",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048514af29064ab73f652fd81dff5",
+          "width" : 64
+        } ],
+        "name" : "Bossanova Jawa, Vol. 4",
+        "release_date" : "2010",
+        "release_date_precision" : "year",
+        "total_tracks" : 10,
+        "type" : "album",
+        "uri" : "spotify:album:5p8P7rI1p1pSs21E5FT0Az"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0oNbhbVYXqDwhkDIvPLerC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0oNbhbVYXqDwhkDIvPLerC",
+        "id" : "0oNbhbVYXqDwhkDIvPLerC",
+        "name" : "Dian Kusuma",
+        "type" : "artist",
+        "uri" : "spotify:artist:0oNbhbVYXqDwhkDIvPLerC"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 273626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "FR2X41636788"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4FNhxyvSZzGCXw2xNVUxee"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4FNhxyvSZzGCXw2xNVUxee",
+      "id" : "4FNhxyvSZzGCXw2xNVUxee",
+      "is_local" : false,
+      "name" : "Ojo Sujono",
+      "popularity" : 23,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a20b55741439411f82253888b8b96d5cea87a8e7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:4FNhxyvSZzGCXw2xNVUxee"
+    },
+    "played_at" : "2021-08-31T09:09:27.510Z",
+    "context" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5p8P7rI1p1pSs21E5FT0Az"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5p8P7rI1p1pSs21E5FT0Az",
+      "type" : "album",
+      "uri" : "spotify:album:5p8P7rI1p1pSs21E5FT0Az"
+    }
   } ],
-  "next" : "https://api.spotify.com/v1/me/player/recently-played?before=1630396567734&limit=5",
+  "next" : "https://api.spotify.com/v1/me/player/recently-played?before=1630400967510&limit=4",
   "cursors" : {
-    "after" : "1630397866739",
-    "before" : "1630396567734"
+    "after" : "1630401930773",
+    "before" : "1630400967510"
   },
-  "limit" : 5,
-  "href" : "https://api.spotify.com/v1/me/player/recently-played?before=10000000000000&limit=5"
+  "limit" : 4,
+  "href" : "https://api.spotify.com/v1/me/player/recently-played?before=10000000000000&limit=4"
 }
