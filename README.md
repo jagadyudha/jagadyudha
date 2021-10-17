@@ -1,6 +1,6 @@
-### Hi, I'm Yudha 👋
+### Hi, I'm Jagad Yudha 👋
 
-<p>Front-end developer & UI/UX designer based on Sidoarjo, Indonesia.<p/>
+<p>Software engineer based on Sidoarjo, Indonesia.<p/>
 
 ## GitHub Stats
 ![jagad stats](https://github-readme-stats.vercel.app/api?username=jagadyudha&theme=radical)
