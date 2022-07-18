@@ -9,5 +9,6 @@ I write sometimes. Mostly about Tech at [jagad.dev](https://jagad.dev)
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jagadyudha&show_icons=true&theme=radical&layout=compact)
 
-![programing language](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadyudha&theme=radical&layout=compact)
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jagadyudha&theme=radical&layout=compact)
+
+![programing language](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadyudha&theme=radical&layout=compact)
