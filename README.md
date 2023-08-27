@@ -1,12 +1,5 @@
-### Hi, I'm Jagad Yudha 👋
+Jagad Yudha is a masterful enchanter of the digital realm. With a wave of his coding wand, he conjures up mesmerizing web and app creations that sparkle with elegance and swiftness. His spells are intricately woven, crafting digital treasures that are both visually enchanting and powerfully functional.
 
-- I am a software engineer who specializes in front-end development.
-- I love building websites and apps that are easy to use, fast, and beautiful. 
-- I enjoy the challenge of developing software that is both aesthetically pleasing and functionally useful, and I thrive on ensuring that my clients' needs are met by designing intuitive user interfaces.
+In the secret enchanted scrolls ([jagad.dev](https://jagad.dev)), Jagad Yudha shares his wisdom, unveiling the arcane secrets of technology with clarity and grace. Each word he scribes is like a magical incantation, unraveling the mysteries of the tech world for all to comprehend.
 
-I write sometimes. Mostly about tech at [jagad.dev](https://jagad.dev)
-
-## Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jagadyudha&show_icons=true&theme=radical&layout=compact)
-
-![programing language](https://github-readme-stats.vercel.app/api/top-langs/?username=jagadyudha&theme=radical&layout=compact)
+With a heart attuned to the desires of his clients, Jagad Yudha weaves his spells to craft interfaces that dance with intuition. He is the artist of user delight, ensuring that every interaction with his creations is a wondrous journey. Turning the ordinary into the extraordinary, one line of code at a time ✨🔮🌐
